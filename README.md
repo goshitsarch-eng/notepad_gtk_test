@@ -6,11 +6,13 @@ All the usual stuff works: File, Edit, Format, Help menus with the same shortcut
 
 ## Install (Arch Linux)
 
-Available on the AUR:
+Available on the AUR for both x86_64 and aarch64:
 
 ```
 yay -S goshapps-notepad
 ```
+
+Works on Raspberry Pi, Asahi Linux, and any other ARM64 Arch setup.
 
 ## Building from source
 
