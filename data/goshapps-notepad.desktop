@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Goshapps Notepad
+Comment=A Windows 98 Notepad clone built with GTK4
+Exec=notepad
+Icon=text-editor
+Categories=Utility;TextEditor;
+Terminal=false

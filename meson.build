@@ -16,3 +16,7 @@ executable('notepad', src,
   dependencies : [gtk4, libadwaita],
   install : true,
 )
+
+install_data('data/goshapps-notepad.desktop',
+  install_dir : get_option('datadir') / 'applications',
+)
